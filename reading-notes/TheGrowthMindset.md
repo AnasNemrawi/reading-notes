@@ -22,7 +22,7 @@ Grit is an essential attribute for software developers as it enables them to ove
 
 Success does not always align with societal standards established over time. It often involves competing with oneself and defining success on personal terms. Success is about forging one's own path and creating achievements that align with individual aspirations.
 
-### Areas I wish to explore further
+## Things I want to know more about
 
 How can I accelerate my learning process while maintaining consistent progress?
 ---
