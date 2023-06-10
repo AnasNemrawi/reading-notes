@@ -20,5 +20,5 @@ Success does not always align with societal standards established over time. It 
 
 ## Things I want to know more about
 
-How can I accelerate my learning process while maintaining consistent progress
+-How can I accelerate my learning process while maintaining consistent progress
 ---
