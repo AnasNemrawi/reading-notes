@@ -5,6 +5,6 @@ this is a space where i can keep track of my questions and what i want to learn
 | #   | topic                                                                                            |
 |-----|--------------------------------------------------------------------------------------------------|
 | 0   |[The Growth Mindset](./reading-notes/TheGrowthMindset.md)                                         |
-| 1   |[Class-1a-Node Ecosystem](./reading-notes/Class-1a-NodeEcosystem.md)                              |
+| 1   |[Class1a-Node Ecosystem](./reading-notes/Class-1a-NodeEcosystem.md)                              |
 | 2   |[Class1b-An introduction to NodeJS and Express](./reading-notes/Class1b.md)                        |
 
