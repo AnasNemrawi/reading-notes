@@ -4,5 +4,7 @@ this is a space where i can keep track of my questions and what i want to learn
 ## Code 401 - Advanced Software Development
 | #   | topic                                                                                            |
 |-----|--------------------------------------------------------------------------------------------------|
-| 0   |[The Growth Mindset](./reading-notes/TheGrowthMindset.md)|
-| 1   |[Class-1a-Node Ecosystem](./reading-notes/Class-1a-NodeEcosystem.md)       |
+| 0   |[The Growth Mindset](./reading-notes/TheGrowthMindset.md)                                         |
+| 1   |[Class-1a-Node Ecosystem](./reading-notes/Class-1a-NodeEcosystem.md)                              |
+| 2   |[Clas1b-An introduction to NodeJS and Express](./reading-notes/Class1b.md)                        |
+
