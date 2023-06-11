@@ -21,5 +21,5 @@ Looking ahead at this module’s course schedule I'm looking forward to learning
 My learning goals after reading and reviewing the class README?
 
 > * Create a simple express server
-> * See passing tests via CI using GitHub actions (Continuous Integration)
-> * Deploy to the cloud using CD (Continuous Deployment)
+> * See passing tests via CI using GitHub actions
+> * Deploy to the cloud using CD 
