@@ -12,5 +12,7 @@ this is a space where i can keep track of my questions and what i want to learn
 |  2  |[Class1b-An introduction to NodeJS and Express](https://anasnemrawi.github.io/reading-notes/reading-notes/Class1b.html)        |
 |  3  |[Data Structures and Algorithms](https://anasnemrawi.github.io/reading-notes/reading-notes/Data-Structures-and-Algorithms.html)      |
 |  4  |[Express REST API](https://anasnemrawi.github.io/reading-notes/reading-notes/Express-REST-API.html)      |
+|  5  |[Linked Lists](https://anasnemrawi.github.io/reading-notes/reading-notes/Linked-Lists.html)      |
+
 
 
