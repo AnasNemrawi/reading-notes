@@ -8,6 +8,7 @@
 
 > JWTs are commonly used in authentication and authorization scenarios, where a user logs in and subsequent requests include the token to prove their identity and access privileges.
 
+
 3.Claims are expected in which structural component of a JWT?
 
 > Claims are expected in the payload component of a JWT.
