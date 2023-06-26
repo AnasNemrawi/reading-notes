@@ -14,5 +14,5 @@ this is a space where i can keep track of my questions and what i want to learn
 |  4  |[Express REST API](https://anasnemrawi.github.io/reading-notes/reading-notes/Express-REST-API.html)      |
 |  5  |[Linked Lists](https://anasnemrawi.github.io/reading-notes/reading-notes/Linked-Lists.html)      |
 |  6  |[Data Modeling](https://anasnemrawi.github.io/reading-notes/reading-notes/Data-modeling.html)      |
-|  6  |[Authentication](https://anasnemrawi.github.io/reading-notes/reading-notes/Authentication.html)      |
-
+|  7  |[Authentication](https://anasnemrawi.github.io/reading-notes/reading-notes/Authentication.html)      |
+|  8  |[JSON Web Token (JWT)](https://anasnemrawi.github.io/reading-notes/reading-notes/JWT.html)  
