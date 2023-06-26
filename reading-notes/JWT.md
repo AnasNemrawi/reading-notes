@@ -1,5 +1,7 @@
 # Bearer Authorization
+
 1. What is a JSON Web Token (JWT)?
+
 > JWT is a compact and self-contained way of transmitting information between parties as a JSON object.
 
 2.When should we use JSON Web Tokens?
