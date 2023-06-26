@@ -19,6 +19,7 @@ Basic Authentication is a simple method to provide credentials in an HTTP reques
 ## OWASP auth cheatsheet
 1. Define the authentication process to a non-technical recruiter.
 Authentication is the process of verifying a user's identity when accessing a system. It involves the user providing their username and password, which are checked against stored records. If the credentials match, the user is granted access; otherwise, access is denied.
+
 2.How should your error messaging respond (both HTTP and HTML)? Why?
 Error messaging should be handled in both HTTP responses and HTML pages to provide clear information to users. In HTTP responses, status codes like 404 or 500 indicate the type of error, while reason phrases give a brief description. This helps clients and developers understand the issue. In HTML error pages, user-friendly messages should be displayed. Handling error messaging in both HTTP responses and HTML pages, users can have a better understanding of encountered errors, developers can diagnose issues efficiently, and the overall user experience can be improved.
 
