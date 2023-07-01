@@ -18,9 +18,9 @@
 - If Authentication is “you are who you say you are,” what is Authorization?
 
 - Name three primary rules defined for RBAC.
->1-Role Assignment
->2-Role Authorization
->3-Role-Permission Association
+> 1-Role Assignment
+> 2-Role Authorization
+> 3-Role-Permission Association
 
 - Describe RBAC to a non-technical friend.
 >RBAC, which stands for Role-Based Access Control, is a way to manage and control access to different things, like information or features, in a system or organization. Imagine it like a big building with different rooms and areas. RBAC helps ensure that only the right people can enter specific rooms or use certain resources.
