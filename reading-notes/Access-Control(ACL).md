@@ -5,8 +5,11 @@
 
 - Describe a Role/Permission heirarchy that you might implement using RBAC.
 >1.Admin role: Admin has full control over the system.
+
 >2.Manager role: Manager typically has permissions to manage specific departments within the system,it can view and modify data that related to their respective areas.
+
 >3.Employee role: Employee has limited access ,the employee can view and update relevant data within their assigned department but he does not have administrative privileges.
+
 >4.Guest role: Guest has minimal acces, It may only have read-only access to certain public information within the system.
 
 - What approach might you take to implement RBAC?
@@ -19,7 +22,9 @@
 
 - Name three primary rules defined for RBAC.
 > 1-Role Assignment
+
 > 2-Role Authorization
+
 > 3-Role-Permission Association
 
 - Describe RBAC to a non-technical friend.
