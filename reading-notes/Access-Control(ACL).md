@@ -11,7 +11,8 @@
 
 - What approach might you take to implement RBAC?
 >1.determine each role in the system by analyze the system structure, and access requirements to determine the different roles that exist within the system.
->2.determine permissions by determine the specific operations that can be performed within the system, also determine permissions to roles based on functional requirements.
+
+> 2.determine permissions by determine the specific operations that can be performed within the system, also determine permissions to roles based on functional requirements.
 >3.assign the roles: Assign users to the relevant roles based on their job requirements and their job responsibilities also.
 
 - If Authentication is “you are who you say you are,” what is Authorization?
