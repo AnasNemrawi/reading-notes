@@ -1,6 +1,8 @@
 ## Online Market
 ### Description:
 > create a platform where users can buy and sell products. It will provide a user-friendly interface for browsing and searching products, managing listings, making purchases, and facilitating secure transactions.
+
+
 ### Frontend Tools:
 1. HTML/CSS: For structuring and styling the web pages.
 2. JavaScript: To add interactivity and implement client-side functionalities.
