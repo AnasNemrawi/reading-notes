@@ -10,12 +10,16 @@
 4. Redux: A predictable state container for managing the application's global state.
 5. Axios: A JavaScript library for making HTTP requests to the backend API.
 6. Bootstrap or Material-UI: Frontend UI frameworks to enhance the design and responsiveness of the application.
+
+   
 ### Backend Tools:
 1. Node.js: A JavaScript runtime for building the server-side application.
 2. Express.js: A web application framework for Node.js, which will handle routing and request handling.
 3. SQL database for storing product listings, user information, and transaction data.
 4. JWT (JSON Web Tokens): For implementing authentication and generating secure access tokens.
 5. bcrypt: A library for hashing and salting passwords to ensure secure user authentication.
+
+
 ### Key Features:
 1. User Registration and Authentication: Allow users to register and log in using their credentials. Implement authentication measures such as password hashing and secure access token generation.
 2. Product Listings: Provide a user-friendly interface for sellers to create and manage product listings, including details like title, description, price, and images.
