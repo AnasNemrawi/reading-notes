@@ -1,6 +1,6 @@
 # reading-notes
-this is a space where i can keep track of my questions and what i want to learn
-### **my github [GitHub](https://github.com/AnasNemrawi).**
+this is a space where I can keep track of my questions and what I want to learn
+### **my GitHub [GitHub](https://github.com/AnasNemrawi).**
 ## Code 401 - Advanced Software Development
 
 ### Table of content
@@ -9,7 +9,7 @@ this is a space where i can keep track of my questions and what i want to learn
 | --- |:---------------------------------------------------------------------------------------:|
 |  0  |[The Growth Mindset](https://anasnemrawi.github.io/reading-notes/reading-notes/TheGrowthMindset.html)                                |
 |  1  |[Class1a-Node Ecosystem](https://anasnemrawi.github.io/reading-notes/reading-notes/Class-1a-NodeEcosystem.html)                      |
-|  2  |[Class1b-An introduction to NodeJS and Express](https://anasnemrawi.github.io/reading-notes/reading-notes/Class1b.html)        |
+|  2  |[Express, NPM, TDD, CI/CD](https://anasnemrawi.github.io/reading-notes/reading-notes/Class1b.html)        |
 |  3  |[Data Structures and Algorithms](https://anasnemrawi.github.io/reading-notes/reading-notes/Data-Structures-and-Algorithms.html)      |
 |  4  |[Express REST API](https://anasnemrawi.github.io/reading-notes/reading-notes/Express-REST-API.html)      |
 |  5  |[Linked Lists](https://anasnemrawi.github.io/reading-notes/reading-notes/Linked-Lists.html)      |
