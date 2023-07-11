@@ -30,6 +30,7 @@
 ## OSI Model Explained
 
 1. What are a couple of key takeaways from this video?
+
 > -The OSI model standardizes the functions of a communication system into seven layers.
 
 > -Each layer of the OSI Model has a specific role and interacts with the adjacent layers to facilitate communication between networked devices.
