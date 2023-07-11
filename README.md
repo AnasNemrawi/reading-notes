@@ -20,5 +20,6 @@ this is a space where I can keep track of my questions and what I want to learn
 |  10 |[Class09(project-idea) ](https://anasnemrawi.github.io/reading-notes/reading-notes/Class09(project-idea).html)   |
 |  11 |[Stacks and Queues ](https://anasnemrawi.github.io/reading-notes/reading-notes/StacksAndQueues.html)   |
 |  12 |[Event Driven Applications ](https://anasnemrawi.github.io/reading-notes/reading-notes/Event-Driven-Applications.html)   |
+|  13 |[Socket.io ](https://anasnemrawi.github.io/reading-notes/reading-notes/Socket.io.html)   |
 
 
