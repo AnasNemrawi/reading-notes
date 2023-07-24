@@ -45,7 +45,7 @@
 2. What are some key features of Dynamoose?
 
 - Simplified syntax for defining models and schemas.
-= Support for data validation and type checking.
+- Support for data validation and type checking.
 - Integration with async/await for smoother asynchronous operations.
 
 
