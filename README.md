@@ -24,3 +24,5 @@ this is a space where I can keep track of my questions and what I want to learn
 |  14 |[Message Queues ](https://anasnemrawi.github.io/reading-notes/reading-notes/messege-Queues.html)   |
 |  15 |[Trees ](https://anasnemrawi.github.io/reading-notes/reading-notes/Trees.html)   |
 |  16 |[AWS ](https://anasnemrawi.github.io/reading-notes/reading-notes/AWS.html)   |
+|  17 |[AWS ](https://anasnemrawi.github.io/reading-notes/reading-notes/AWS.html)   |
+|  18 |[AWS: API, Dynamo and Lambda ](https://anasnemrawi.github.io/reading-notes/reading-notes/AWS-API-Dynamo-Lambda.html)   |
