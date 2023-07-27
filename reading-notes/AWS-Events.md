@@ -8,7 +8,6 @@
 - SQS: Message queuing service for decoupling components in distributed systems.
 
 - SNS: Publish-subscribe service for broadcasting messages to multiple subscribers.
-
 2. What are some use cases for both SNS and SQS?
 
 - SNS: Sending notifications, updates, event-driven architectures.
@@ -20,7 +19,6 @@
 1. Describe how to use SQS and SNS in a “fanout” pattern.
 
 - Publish a message to an SNS topic, which delivers it to multiple SQS queues with different subscribers.
-
 2. Explain how “push notifications” work, using SNS.
 
 - Devices register with SNS using tokens, and SNS delivers notifications to registered devices.
