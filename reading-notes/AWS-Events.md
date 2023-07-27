@@ -3,7 +3,7 @@
 
 ## AWS SQS vs SNS
 
-1. What is the difference betweeen SQS and SNS?
+1. What is the difference between SQS and SNS?
 
 - SQS: Message queuing service for decoupling components in distributed systems.
 
