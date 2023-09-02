@@ -31,3 +31,4 @@ this is a space where I can keep track of my questions and what I want to learn
 |  21 |[ useState() Hook in React ](https://anasnemrawi.github.io/reading-notes/reading-notes/useState()-Hook.html)   |
 |  22 |[ useEffect() Hook in React ](https://anasnemrawi.github.io/reading-notes/reading-notes/useEffect-Hook.html)   |
 |  23 |[ Hash Tables ](https://anasnemrawi.github.io/reading-notes/reading-notes/HashTable.html)   |
+|  24 |[ Context API ](https://anasnemrawi.github.io/reading-notes/reading-notes/Context-API.html)   |
